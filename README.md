@@ -1,5 +1,6 @@
 # ClearTempFiles
-A project to clear temp files using TopShelf
+A project to clear temp files using TopShelf.
+
 
 To install service:
 
